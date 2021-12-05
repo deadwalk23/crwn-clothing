@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/crwn-clothing/static/css/main.87fac905.chunk.css",
-    "main.js": "/crwn-clothing/static/js/main.12254836.chunk.js",
-    "main.js.map": "/crwn-clothing/static/js/main.12254836.chunk.js.map",
-    "runtime-main.js": "/crwn-clothing/static/js/runtime-main.93be4f1b.js",
-    "runtime-main.js.map": "/crwn-clothing/static/js/runtime-main.93be4f1b.js.map",
-    "static/js/2.dafbbf51.chunk.js": "/crwn-clothing/static/js/2.dafbbf51.chunk.js",
-    "static/js/2.dafbbf51.chunk.js.map": "/crwn-clothing/static/js/2.dafbbf51.chunk.js.map",
-    "index.html": "/crwn-clothing/index.html",
-    "static/css/main.87fac905.chunk.css.map": "/crwn-clothing/static/css/main.87fac905.chunk.css.map",
-    "static/js/2.dafbbf51.chunk.js.LICENSE.txt": "/crwn-clothing/static/js/2.dafbbf51.chunk.js.LICENSE.txt",
-    "static/media/crown.3a4e2b15.svg": "/crwn-clothing/static/media/crown.3a4e2b15.svg",
-    "static/media/shopping-bag.a688874f.svg": "/crwn-clothing/static/media/shopping-bag.a688874f.svg"
+    "main.css": "/crwn-clothing/index.html/static/css/main.87fac905.chunk.css",
+    "main.js": "/crwn-clothing/index.html/static/js/main.12254836.chunk.js",
+    "main.js.map": "/crwn-clothing/index.html/static/js/main.12254836.chunk.js.map",
+    "runtime-main.js": "/crwn-clothing/index.html/static/js/runtime-main.7cbfe5ed.js",
+    "runtime-main.js.map": "/crwn-clothing/index.html/static/js/runtime-main.7cbfe5ed.js.map",
+    "static/js/2.ed033559.chunk.js": "/crwn-clothing/index.html/static/js/2.ed033559.chunk.js",
+    "static/js/2.ed033559.chunk.js.map": "/crwn-clothing/index.html/static/js/2.ed033559.chunk.js.map",
+    "index.html": "/crwn-clothing/index.html/index.html",
+    "static/css/main.87fac905.chunk.css.map": "/crwn-clothing/index.html/static/css/main.87fac905.chunk.css.map",
+    "static/js/2.ed033559.chunk.js.LICENSE.txt": "/crwn-clothing/index.html/static/js/2.ed033559.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/crwn-clothing/index.html/static/media/crown.3a4e2b15.svg",
+    "static/media/shopping-bag.a688874f.svg": "/crwn-clothing/index.html/static/media/shopping-bag.a688874f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.93be4f1b.js",
-    "static/js/2.dafbbf51.chunk.js",
+    "static/js/runtime-main.7cbfe5ed.js",
+    "static/js/2.ed033559.chunk.js",
     "static/css/main.87fac905.chunk.css",
     "static/js/main.12254836.chunk.js"
   ]
